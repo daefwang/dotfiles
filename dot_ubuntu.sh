@@ -49,4 +49,4 @@ git config --global core.editor "code --wait"
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 
 # Download anaconda script
-wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
+wget https://repo.anaconda.com/archive/Anaconda3-2022.05-Linux-x86_64.sh
