@@ -109,4 +109,4 @@ export PYTHONIOENCODING=UTF-8
 
 export PATH="/home/${USER}/.local/bin:$PATH"
 
-export PATH="~/anaconda3/bin:~/anaconda3/condabin:$PATH"
+export PATH="~/anaconda3/bin:~/anaconda3/conda/bin:$PATH"
